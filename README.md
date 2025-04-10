@@ -17,14 +17,11 @@ To play or modify the game locally:
 
 Clone this repository:
 
-git clone https://github.com/your-username/tic-tac-toe.git
-cd tic-tac-toe
-Open index.html in your browser:
+git clone https://github.com/HimanshuKumar101/tic_tac_toe_Game.git
 
-open index.html   # Mac
-# or
-start index.html  # Windows
-🛠️ Project Structure
+cd tic-tac-toe
+
+Open index.html in your browser:
 
 🎨 Tech Stack
 HTML5 – for page structure
